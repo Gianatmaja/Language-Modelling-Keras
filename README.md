@@ -21,7 +21,7 @@ the necessary functions to support the task. In ngram_dataset.py, we will implem
 ngram_nlm.py, we will train the language model and implement functions to generate words (using a tri-gram neural language model, as shown below), compute
 sentence likelihood as well as the consine similarity between 2 words using their word embeddings.
 
-![model](https://github.com/Gianatmaja/Language-Modelling-Keras/blob/main/images/Screenshot%202022-10-11%20at%205.57.41%20PM.png)
+![model](https://github.com/Gianatmaja/Language-Modelling-Keras/blob/main/images/Architecture.png)
 
 ### Snapshots of Training Process
-![losses](https://github.com/Gianatmaja/Language-Modelling-Keras/blob/main/images/Screenshot%202022-10-11%20at%205.57.41%20PM.png)
+![losses](https://github.com/Gianatmaja/Language-Modelling-Keras/blob/main/images/Res1.png)
